@@ -13,6 +13,7 @@
 		7FCD398423F33ABA00F2C25A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FCD398323F33ABA00F2C25A /* Assets.xcassets */; };
 		7FCD398723F33ABA00F2C25A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FCD398523F33ABA00F2C25A /* LaunchScreen.storyboard */; };
 		7FCD398F23F3459A00F2C25A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCD398E23F3459A00F2C25A /* SecondViewController.swift */; };
+		7FCD399123F3493800F2C25A /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCD399023F3493800F2C25A /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7FCD398623F33ABA00F2C25A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FCD398823F33ABA00F2C25A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7FCD398E23F3459A00F2C25A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		7FCD399023F3493800F2C25A /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7FCD397C23F33AB600F2C25A /* AppDelegate.swift */,
 				7FCD397E23F33AB600F2C25A /* ViewController.swift */,
 				7FCD398023F33AB700F2C25A /* Main.storyboard */,
+				7FCD399023F3493800F2C25A /* ThirdViewController.swift */,
 				7FCD398E23F3459A00F2C25A /* SecondViewController.swift */,
 				7FCD398323F33ABA00F2C25A /* Assets.xcassets */,
 				7FCD398523F33ABA00F2C25A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				7FCD398F23F3459A00F2C25A /* SecondViewController.swift in Sources */,
 				7FCD397F23F33AB600F2C25A /* ViewController.swift in Sources */,
+				7FCD399123F3493800F2C25A /* ThirdViewController.swift in Sources */,
 				7FCD397D23F33AB600F2C25A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
